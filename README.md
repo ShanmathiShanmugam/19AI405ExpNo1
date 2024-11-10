@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: S.Shanmathi N</h3>
+<h3>Register Number/Staff Id: 212222100049 </h3>
 
 
 <h3>AIM:</h3>
@@ -105,3 +105,6 @@ agent.print_status()
 # Output:
 
 ![image](https://github.com/user-attachments/assets/e83d3d5c-c4a8-44be-9260-2a3de8e7adda)
+
+# Result:
+Thus the Developing AI Agent with PEAS Description was implemented using python programming.
