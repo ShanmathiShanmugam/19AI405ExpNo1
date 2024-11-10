@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: S.Shanmathi N</h3>
+<h3>Name: S.Shanmathi </h3>
 <h3>Register Number: 212222100049 </h3>
 
 
